@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749752522464",
+    "project_id": "agendafirestore-ee889",
+    "storage_bucket": "agendafirestore-ee889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749752522464:android:0b9ad76ed172787ad86285",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.agendafirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749752522464-qhvh21cm8p2sqfij7cidu4dnpq0gnirs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsCynOb_heN6F8rRtpbrCiFzc58YjMHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749752522464-qhvh21cm8p2sqfij7cidu4dnpq0gnirs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
